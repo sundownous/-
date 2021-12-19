@@ -1,0 +1,3 @@
+document.write("Hello, world!"); // HTML 문서에 출력된다.
+alert("Hello, world!"); // 알림창으로 출력된다.
+console.log("Hello, world!"); //보통 F12(macOS의 경우에는 ⌘+⌥+I)를 누르면 보이는 콘솔 창에 출력된다.
